@@ -10,8 +10,9 @@ I also have been learning the Unity game engine, as well as blender and aseprite
 Currently I have been working on learning the basics of game dev in Unity
 
 ## Contacts
--email: joshgardner023@gmail.com
--discord: thefartingman
+- email: joshgardner023@gmail.com
+- discord: thefartingman
+
 Thank you and have a nice day!
 
 <!--
