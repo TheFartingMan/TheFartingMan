@@ -4,10 +4,10 @@ My name is Joshua Gardner, and I go by Josh.
 I like to learn and write code in Java, C#, and Python
 I also have been learning the Unity game engine, as well as blender and aseprite
 
-##Projects
+## Projects
 Currently I have been working on learning the basics of game dev in Unity
 
-##Contacts
+## Contacts
 -email: joshgardner023@gmail.com
 -discord: thefartingman
 Thank you and have a nice day!
