@@ -1,7 +1,9 @@
 ## Hi there!
 Thanks for visiting my page!
 My name is Joshua Gardner, and I go by Josh.
+
 I like to learn and write code in Java, C#, and Python
+
 I also have been learning the Unity game engine, as well as blender and aseprite
 
 ## Projects
