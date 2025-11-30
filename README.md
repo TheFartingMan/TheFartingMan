@@ -4,7 +4,7 @@ My name is Joshua Gardner, and I go by Josh.
 
 I like to learn and write code in Java, C#, and Python
 
-I also have been learning the Unity game engine, as well as blender and aseprite
+I also have been learning the Unity game engine, as well as Blender and Aseprite
 
 ## Projects
 Currently I have been working on learning the basics of game dev in Unity
